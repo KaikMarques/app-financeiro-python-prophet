@@ -5,7 +5,7 @@ Este projeto cria um aplicativo web financeiro usando Python e Streamlit para ac
 
 ## Video do dashboard
 <video width="640" controls>
-  <source src="img/seu-video.webm" type="video/webm">
+  <source src="img/dashboard.webm" type="video/webm">
   Seu navegador não suporta o formato de vídeo.
 </video>
 
