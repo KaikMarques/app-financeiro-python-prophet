@@ -4,10 +4,9 @@
 Este projeto cria um aplicativo web financeiro usando Python e Streamlit para acompanhar ações do mercado financeiro, fazer previsões de preços usando machine learning com a biblioteca Prophet e salvar os dados na nuvem.
 
 ## Video do dashboard
-<video width="640" controls>
-  <source src="img/dashboard.webm" type="video/webm">
-  Seu navegador não suporta o formato de vídeo.
-</video>
+  <div align="center">
+    <img height="200" src="img/dashboard.gif"  />
+  </div>
 
 
 ## Bibliotecas Utilizadas
