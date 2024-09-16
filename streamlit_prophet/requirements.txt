@@ -4,4 +4,3 @@ pandas~=2.0.3
 plotly~=5.22.0
 holidays==0.24
 
-git
