@@ -8,8 +8,7 @@ Este projeto é um aplicativo de análise financeira desenvolvido com **Streamli
   <div align="center">
     <img height="600" src="img/dashboard.gif"  />
   </div>
-Este projeto é um aplicativo de análise financeira desenvolvido com **Streamlit**, uma biblioteca Python para criação de aplicações web interativas. 
-O objetivo do aplicativo é permitir que os usuários analisem o histórico e a previsão de preços de ações.
+
 
 ### Funcionalidades
 
