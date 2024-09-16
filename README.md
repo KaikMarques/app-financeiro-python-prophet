@@ -1,12 +1,28 @@
-# App Financeiro com Python e Streamlit
+# Análise de Ações com Streamlit
 
 ## Descrição do Projeto
-Este projeto cria um aplicativo web financeiro usando Python e Streamlit para acompanhar ações do mercado financeiro, fazer previsões de preços usando machine learning com a biblioteca Prophet e salvar os dados na nuvem.
+Este projeto é um aplicativo de análise financeira desenvolvido com **Streamlit**, uma biblioteca Python para criação de aplicações web interativas. O objetivo do aplicativo é permitir que os usuários analisem o histórico e a previsão de preços de ações.
+
 
 ## Video do dashboard
   <div align="center">
     <img height="600" src="img/dashboard.gif"  />
   </div>
+Este projeto é um aplicativo de análise financeira desenvolvido com **Streamlit**, uma biblioteca Python para criação de aplicações web interativas. 
+O objetivo do aplicativo é permitir que os usuários analisem o histórico e a previsão de preços de ações.
+
+### Funcionalidades
+
+- **Visualização de Dados**: O aplicativo exibe uma tabela com os últimos valores de fechamento e abertura de uma ação selecionada.
+- **Gráficos de Preços**: Inclui gráficos interativos que mostram os preços de abertura e fechamento das ações ao longo do tempo.
+- **Previsão de Preços**: Utiliza o modelo Prophet para prever os preços futuros das ações com base nos dados históricos.
+- **Escolha da Ação**: Permite que o usuário escolha a ação que deseja analisar a partir de uma lista fornecida.
+
+### Como Usar
+
+1. **Escolha uma Ação**: No painel lateral, selecione a ação que deseja analisar.
+2. **Defina o Período de Previsão**: Use o slider para definir o número de dias para o qual deseja prever os preços.
+3. **Visualize os Dados**: Veja a tabela com os últimos valores de fechamento e abertura, gráficos de preços e previsões futuras.
 
 
 ## Bibliotecas Utilizadas
