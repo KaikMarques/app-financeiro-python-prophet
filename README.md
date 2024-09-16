@@ -5,7 +5,7 @@ Este projeto cria um aplicativo web financeiro usando Python e Streamlit para ac
 
 ## Video do dashboard
   <div align="center">
-    <img height="200" src="img/dashboard.gif"  />
+    <img height="600" src="img/dashboard.gif"  />
   </div>
 
 
