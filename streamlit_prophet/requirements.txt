@@ -1,7 +1,7 @@
 streamlit~=1.38.0
 yfinance~=0.2.43
 pandas~=2.0.3
-fbprophet~=0.7.1
 plotly~=5.22.0
 holidays==0.24
-prophet==1.1.2
+
+git
